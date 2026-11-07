@@ -1,0 +1,6 @@
+name,city,age,score,performance,passed
+Ali,Karachi,21,80.0,Good,True
+Sara,Karachi,22,92.0,Good,True
+Omar,Karachi,20,76.0,Good,True
+Hina,Lahore,20,72.0,Good,True
+Bilal,Lahore,22,38.0,Needs Improvement,False
